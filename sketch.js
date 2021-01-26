@@ -79,10 +79,10 @@ function keyPressed (){
 	//	Matter.Body.setPosition(bob1.body, {x: mouseX , y: mouseY});
 	//	Matter.Body.setPosition(bob5.body, {x: mouseX , y: mouseY});
 	//}
-	if(touches.length > 0 && bob.y  >= height-120) {
+	//if(touches.length > 0 && bob.y  >= height-120) {
 	//	jumpSound.play()
 	//	trex.velocityY = -10;
-                 Body.applyForce(bob1.body,bob1.body.position, {x:-150 , y: -100 })
-		 touches = [];
+        //         Body.applyForce(bob1.body,bob1.body.position, {x:-150 , y: -100 })
+	//	 touches = [];
 	  }
 	

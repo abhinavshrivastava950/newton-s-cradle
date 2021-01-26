@@ -82,6 +82,6 @@ function keyPressed (){
 	//if(touches.length > 0 && trex.y  >= height-120) {
 	//	jumpSound.play()
 	//	trex.velocityY = -10;
-	//	 touches = [];
+		 touches = [];
 	//  }
 	
